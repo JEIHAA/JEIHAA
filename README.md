@@ -24,9 +24,8 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
         <div style="text-align: left;"> 
-            <td class="hljs-ln-line hljs-ln-code" data-line-number="2">
-                ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEIHAA&layout=compact&theme=algolia)
-            </td>
+           [![JEIHA's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEIHAA&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+           
     </div> 
     </div>
     
