@@ -37,7 +37,7 @@
 
 ## 🧑‍💻 Contact me
 
-[![Gmail](https://img.shields.io/badge/gmldjs01@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](https://odds-and-ends-box.tistory.com/)
+![Gmail](https://img.shields.io/badge/gmldjs01@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white)](https://odds-and-ends-box.tistory.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/lhe.photo/)
 
