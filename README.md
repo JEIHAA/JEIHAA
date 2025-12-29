@@ -22,8 +22,11 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=JEIHAA&bg_color=60,4c6154,3a413d&title_color=f2f2f2&text_color=f2f2f2"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEIHAA&layout=compact&bg_color=60,4c6154,3a413d&title_color=f2f2f2&text_color=f2f2f2"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
+        <div style="text-align: left;"> 
+            <td class="hljs-ln-line hljs-ln-code" data-line-number="2">
+                ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEIHAA&layout=compact&theme=algolia)
+            </td>
+    </div> 
     </div>
     
