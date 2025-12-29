@@ -16,15 +16,16 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://odds-and-ends-box.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://odds-and-ends-box.tistory.com/"> </a>
+    <div style="text-align: left;"> 
+        <a href=https://odds-and-ends-box.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://odds-and-ends-box.tistory.com/"> </a>
          <a href=https://www.instagram.com/lhe.photo/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/lhe.photo/"> </a>
-          </div>  <br> 
+    </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-        <div style="text-align: left;"> 
-           //[![JEIHA's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEIHAA&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)            
-    </div> 
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
+            <div style="text-align: left;"> 
+               ![JEIHA's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEIHAA&show_icons=true&theme=radical)]
+            </div> 
     </div>
     
